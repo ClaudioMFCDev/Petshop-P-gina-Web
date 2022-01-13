@@ -1,0 +1,27 @@
+
+.slide img{
+
+	height: 95vh;
+}
+
+.slide img{
+
+	width: 60vh;
+}
+
+.footer{
+
+	bottom: 0;
+}
+
+.header{
+	background-image: url(../img/bg-pet2.jpg);
+	
+	background-size: contain;
+	height: 500px;
+}
+
+.listas{
+
+	min-height: 80vh;
+}
